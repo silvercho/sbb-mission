@@ -15,5 +15,6 @@ public class HelloLombok {
 
         System.out.println(helloLombok.getHello());
         System.out.println(helloLombok.getLombok());
+        // 수정
     }
 }
